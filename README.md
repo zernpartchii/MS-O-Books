@@ -1,6 +1,7 @@
 # MS-O-Books
 
 # To run the website
+# Download and Uncompressed
 # 1. Open the project in the VS Code
 # 2. Press ( Ctrl+Shift+` ) to open Terminal in VS Code
 # 3. Enter this command: php artisan migrate
